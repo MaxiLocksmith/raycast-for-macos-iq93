@@ -1,4 +1,4 @@
-
+Raycast for macOS premium Automation - app-uninstaller and snapshot-rollback is the best Raycast for macOS automation, featuring app-uninstaller and snapshot-rollback. Safe,
 
 
 
